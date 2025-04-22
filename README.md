@@ -1,3 +1,3 @@
-# ML_for_Formula_1
+# Machine Learning for Formula 1
 
-Future project of interest. More to come in the future!
+Formula 1 is a data-driven sport. I hope to do a project using the FastF1 repository in the future. More to come!
